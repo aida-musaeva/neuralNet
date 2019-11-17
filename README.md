@@ -1,2 +1,2 @@
 # neuralNet
- machine learning with TensorFlow
+ machine learning w/ TensorFlow
